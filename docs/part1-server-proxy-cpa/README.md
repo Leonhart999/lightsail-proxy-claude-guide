@@ -50,13 +50,13 @@
 
 1. 在 AWS 控制台顶部搜索并进入 **Lightsail** → 点击 **Create instance**。
 2. 关键选项推荐：
-   - **Region（地区）**：选 **Singapore（新加坡）**（到国内延迟均衡，且对 AI 服务友好；也可按你的银行卡地区选择东京、伦敦等）。
+   - **Region（地区）**：选 **美国**（对 AI 服务友好；也可按你的银行卡地区选择新加坡、东京、伦敦等）。
    - **Platform**：`Linux/Unix`
    - **Blueprint**：`OS Only` → **Debian 12**
    - **SSH key pair**：下载默认 `.pem` 私钥文件并妥善保存。
    - **Instance plan（套餐）**：
      - 仅跑翻墙节点：`$5/月` 即可。
-     - **同时跑代理 + CPA 及其他 Docker 容器**：强烈建议选 **`$12/月`（2 GB 内存 / 2 核 / 60 GB 硬盘 / 3 TB 月流量）**。
+     - **同时跑代理 + CPA 及其他 Docker 容器**：建议选 **`$12/月`（2 GB 内存 / 2 核 / 60 GB 硬盘 / 3 TB 月流量）**。
    - **网络选项**：勾选 **Dual-stack（IPv4 + IPv6）**。
 
 ### 2.2 绑定静态 IP 与放行防火墙
