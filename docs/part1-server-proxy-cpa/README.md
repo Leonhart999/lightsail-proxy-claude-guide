@@ -11,9 +11,9 @@
 6. 在 Windows 上安装与配置 v2rayN 客户端
 7. 用 Docker 部署开源项目 CPA（CLIProxyAPI）并配置流式反代
 
-[![点击在线观看第一篇视频教程（04:42）](../../assets/images/part1-video-cover.jpg)](https://leonhart999.github.io/lightsail-proxy-claude-guide/)
+[![点击在线观看第一篇视频教程（04:42）](../../assets/images/part1-video-cover.jpg)](https://leonhart999.github.io/lightsail-proxy-claude-guide/#part1)
 
-> **视频跟练（04:42）**：[在线播放（含章节快跳）](https://leonhart999.github.io/lightsail-proxy-claude-guide/) ｜ [下载 MP4（23 MB）](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.mp4) ｜ [下载 SRT 字幕](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.srt)
+> **视频跟练（04:42）**：[在线播放（含章节快跳）](https://leonhart999.github.io/lightsail-proxy-claude-guide/#part1) ｜ [下载 MP4（23 MB）](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.mp4) ｜ [下载 SRT 字幕](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.srt)
 
 > **安全提醒**：文中出现的 `example.com`、`<PUB4>`、`<PUB6>`、`<BIND4>`、`sk-cpa-...` 等均为占位符，请替换为自己的真实值。切勿将密码、密钥、订阅地址泄露或上传至公开仓库。
 

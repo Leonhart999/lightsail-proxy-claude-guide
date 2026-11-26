@@ -9,6 +9,10 @@
 4. 通过 **SSH 隧道**完成 Claude OAuth 登录到 CPA
 5. 将 CPA 的 API 接入 **CC Switch** 并验证 Claude Code 调用
 
+[![点击在线观看第二篇视频教程（04:12）](../../assets/images/part2-video-cover.jpg)](https://leonhart999.github.io/lightsail-proxy-claude-guide/#part2)
+
+> **视频跟练（04:12，含 4 段网页实操演示）**：[在线播放（含章节快跳）](https://leonhart999.github.io/lightsail-proxy-claude-guide/#part2) ｜ [下载 MP4（21 MB）](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part2.mp4) ｜ [下载 SRT 字幕](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part2.srt)
+
 > **防风控黄金法则**：**代理出口 IP 地区 = 银行卡发卡地区 = 账单地址地区**，且浏览器零指纹污染、无 WebRTC 真实 IP 泄露。
 
 ---
