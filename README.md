@@ -6,6 +6,8 @@
 
 本仓库整理了一套从零开始的完整图文实践教程，涵盖 **云服务器搭建 → 域名与通配符证书 → 3x-ui 代理与订阅网站 → v2rayN 客户端 → 开源项目 CPA 部署 → Mullvad 指纹浏览器注册 Claude Pro → OAuth 接入 CPA → CC Switch 连接 Claude Code** 全链路。
 
+> **懒人包**：不想手动敲命令？把 [LAZY-PACK.md](LAZY-PACK.md) 整份发给能执行终端命令的 AI 助手（Claude Code、Codex CLI 等），AI 会按顺序自动完成服务器、证书、节点、订阅、CPA 和 Claude Code 配置。注册账号、付款、购买域名、网页授权这几步需要你本人操作，AI 会停下来一步步教你。
+
 ## 视频教程
 
 两篇视频均为 1080p、中文配音与字幕，在线播放页支持上下篇切换和章节跳转。
