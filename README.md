@@ -1,6 +1,15 @@
 # Lightsail 自建代理节点、CPA 网关与 Claude Pro 接入完整教程
 
+[![在线视频教程](https://img.shields.io/badge/视频教程-上篇_04:42_在线播放-0ea5e9)](https://leonhart999.github.io/lightsail-proxy-claude-guide/)
+[![下载 MP4](https://img.shields.io/badge/Release-MP4_%2B_SRT-6366f1)](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/tag/v1.0.0)
+
 本仓库整理了一套从零开始的完整图文实践教程，涵盖 **云服务器搭建 → 域名与通配符证书 → 3x-ui 代理与订阅网站 → v2rayN 客户端 → 开源项目 CPA 部署 → Mullvad 指纹浏览器注册 Claude Pro → OAuth 接入 CPA → CC Switch 连接 Claude Code** 全链路。
+
+## 视频教程（上篇：服务器、代理节点与 CPA 部署）
+
+[![点击在线观看视频教程（上篇 04:42）](assets/images/part1-video-cover.jpg)](https://leonhart999.github.io/lightsail-proxy-claude-guide/)
+
+> **配套视频（04:42，1080p 中文配音+字幕）**：[在线播放（支持章节跳转）](https://leonhart999.github.io/lightsail-proxy-claude-guide/) ｜ [下载 MP4（23 MB）](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.mp4) ｜ [下载 SRT 字幕](https://github.com/Leonhart999/lightsail-proxy-claude-guide/releases/download/v1.0.0/Lightsail_Proxy_CPA_Part1.srt)（下篇制作中）
 
 ![单台 AWS Lightsail 全套服务分流架构](assets/images/01-architecture-overview.png)
 
